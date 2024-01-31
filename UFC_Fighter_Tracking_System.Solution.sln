@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFC_Fighter_Tracking_System", "UFC_Fighter_Tracking_System\UFC_Fighter_Tracking_System.csproj", "{E23957B5-DC35-470F-BA8A-DD938D88D807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UFC_Fighter_Tracking_System.Tests", "UFC_Fighter_Tracking_System.Tests\UFC_Fighter_Tracking_System.Tests.csproj", "{4CEA0472-8B08-47D2-92B7-E030F9563AFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23957B5-DC35-470F-BA8A-DD938D88D807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23957B5-DC35-470F-BA8A-DD938D88D807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23957B5-DC35-470F-BA8A-DD938D88D807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23957B5-DC35-470F-BA8A-DD938D88D807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CEA0472-8B08-47D2-92B7-E030F9563AFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CEA0472-8B08-47D2-92B7-E030F9563AFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CEA0472-8B08-47D2-92B7-E030F9563AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CEA0472-8B08-47D2-92B7-E030F9563AFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
